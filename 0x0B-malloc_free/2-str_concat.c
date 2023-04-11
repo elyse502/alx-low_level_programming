@@ -51,7 +51,7 @@ char *str_concat(char *s1, char *s2)
 			arrayP[total] = s2[total - size1];
 	}
 
-	array[total] = '\0';
+	arrayP[total] = '\0';
 
 	return (arrayP);
 }
