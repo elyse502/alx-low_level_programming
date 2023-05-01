@@ -2,8 +2,9 @@
 #define LISTS_H
 
 /*
- * Description: Header file containing prototypes and definitions for all Functions
- *       and types written in the 0x12-more_singly_linked_lists directory.
+ * Description: Header file containing prototypes and
+ *       definitions for all Functions and types written
+ *       in the 0x12-more_singly_linked_lists directory.
  */
 
 #include <stdio.h>
