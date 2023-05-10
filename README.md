@@ -26,10 +26,9 @@ This repository contains programs written for the low-level programming and algo
 * 0x15-file_io
 
 
-
-           # STAY TUNED!
-more projects are coming soon!!!
-I am on my way to be the best software engineer that I can possibly be!!!
+           ## STAY TUNED!
+* more projects are coming soon!!!
+* I am on my way to be the best software engineer that I can possibly be!!!
 
 ### Author
 Elyse502
