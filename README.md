@@ -1,4 +1,4 @@
-# LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING).
+# *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING).
 
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **C language**. I update this repo with my learning progresses with hands-on projects as listed below:
 
@@ -30,4 +30,4 @@ This repository contains programs written for the low-level programming and algo
 * I am on my way to be the best software engineer that I can possibly be!!!
 
 ### Author:
-Elyse502
+*Elyse502 -  NIYIBIZI Elysée(https://github.com/elyse502).*
