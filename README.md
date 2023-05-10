@@ -1,4 +1,4 @@
-LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING.
+# LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING.
 
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **C language**. I update this repo with my learning progresses with hands-on projects as listed below:
 
@@ -25,7 +25,9 @@ This repository contains programs written for the low-level programming and algo
 * 0x14-bit_manipulation
 * 0x15-file_io
 
-           ## STAY TUNED!
+
+
+           #STAY TUNED!
 more projects are coming soon!!!
 I am on my way to be the best software engineer that I can possibly be!!!
 
