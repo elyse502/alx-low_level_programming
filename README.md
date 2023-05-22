@@ -1,5 +1,10 @@
 # *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING)*.
-
+![162432166-0f08df51-fadc-4d37-99f8-bc92b797589b](https://github.com/elyse502/alx-low_level_programming/assets/125453474/c92df3ec-021e-489d-82c0-49fc94caeb36)
+## Welcome
+Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
+# Introduction
+**C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Also **C**, is a computer programming language developed in the early 1970s by American computer scientist `Dennis M. Ritchie` at Bell Laboratories (formerly AT&T Bell Laboratories).
+# Table of Contents
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **C language**. I update this repo with my learning progresses with hands-on projects as listed below:
 
 * 0x00. C - Hello, World
@@ -25,9 +30,16 @@ This repository contains programs written for the low-level programming and algo
 * 0x14-bit_manipulation
 * 0x15-file_io
 
+# Compilation Process
+![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
+
+
 ## STAY TUNED!
 * more projects are coming soon!!!
 * I am on my way to be the best software engineer that I can possibly be!!!
 
 ### Author:
-*Elyse502 -  NIYIBIZI Elysée(https://github.com/elyse502).*
+*NIYIBIZI Elysée | [Github](https://github.com/elyse502).*
+
+![68747470733a2f2f6173736574732e696d6167696e61626c65667574757265732e636f6d2f6d656469612f696d616765732f414c585f4c6f676f2e6d61782d323030783135302e706e67](https://github.com/elyse502/alx-low_level_programming/assets/125453474/2d08e450-0f63-4979-89cc-1c377d48c32a)
+
