@@ -35,7 +35,7 @@ This repository contains programs written for the low-level programming and algo
 
 
 ## STAY TUNED!
-* more projects are coming soon!!!
+* More projects are coming soon!!!
 * I am on my way to be the best software engineer that I can possibly be!!!
 
 ### Author:
