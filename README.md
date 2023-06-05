@@ -1,5 +1,5 @@
 # *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING)*.
-![162432166-0f08df51-fadc-4d37-99f8-bc92b797589b](https://github.com/elyse502/alx-low_level_programming/assets/125453474/c92df3ec-021e-489d-82c0-49fc94caeb36)
+![png-transparent-the-c-programming-language-the-c-programming-language-programmer-programming-language-text-logo-computer-science](https://github.com/elyse502/alx-low_level_programming/assets/125453474/d348e462-c551-40fa-93b6-1686c34455f7)
 ## Welcome
 Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
 # Introduction
