@@ -1,6 +1,6 @@
 # *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING)*.
 ![png-transparent-the-c-programming-language-the-c-programming-language-programmer-programming-language-text-logo-computer-science](https://github.com/elyse502/alx-low_level_programming/assets/125453474/d348e462-c551-40fa-93b6-1686c34455f7)
-## Welcome
+## WELCOME
 Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
 # Introduction
 **C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Also **C**, is a computer programming language developed in the early 1970s by American computer scientist `Dennis M. Ritchie` at Bell Laboratories (formerly AT&T Bell Laboratories).
