@@ -33,7 +33,8 @@ This repository contains programs written for the low-level programming and algo
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
 
-
+## Acknowledgements
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. **alx_africa** is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
 ## STAY TUNED!
 * More projects are coming soon!!!
 * I am on my way to be the best software engineer that I can possibly be!!!
