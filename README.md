@@ -1,7 +1,7 @@
 # *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING)*.
 ![png-transparent-the-c-programming-language-the-c-programming-language-programmer-programming-language-text-logo-computer-science](https://github.com/elyse502/alx-low_level_programming/assets/125453474/d348e462-c551-40fa-93b6-1686c34455f7)
 
-**A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task.**
+**_A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task._**
 ## WELCOME
 Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
 # Introduction
