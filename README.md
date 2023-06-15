@@ -34,6 +34,7 @@ This repository contains programs written for the low-level programming and algo
 * 0x13-more_singly_linked_lists
 * 0x14-bit_manipulation
 * 0x15-file_io
+* 0x17-doubly_linked_lists
 
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
