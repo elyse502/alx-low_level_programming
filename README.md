@@ -1,11 +1,11 @@
 # *LOW-LEVEL PROGRAMMING - DATA STRUCTURES, ALGORITHMS, LINUX/UNIX SYSTEM PROGRAMMING(C PROGRAMMING)*.
 ![png-transparent-the-c-programming-language-the-c-programming-language-programmer-programming-language-text-logo-computer-science](https://github.com/elyse502/alx-low_level_programming/assets/125453474/d348e462-c551-40fa-93b6-1686c34455f7)
 
-# Getting Started!
+# 💪Getting Started!
 ![ezgif-1-087495259c](https://github.com/elyse502/alx-low_level_programming/assets/125453474/9c6e85ce-1cfc-4eaa-9b29-67891554193e)
 
 **_A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task._**
-## WELCOME
+## WELCOME🤝
 Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
 # Introduction
 **C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Also **C**, is a computer programming language developed in the early 1970s by American computer scientist `Dennis M. Ritchie` at Bell Laboratories (formerly AT&T Bell Laboratories).
@@ -39,13 +39,17 @@ This repository contains programs written for the low-level programming and algo
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
 
-## Acknowledgements
+## ⚠️ WARNING!!!
+**_This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help!
+This repo may contain some errors. If you notice any, please add a pull request._**
+
+## Acknowledgements✌️
 All work contained in this project was completed as part of the curriculum for the ALX-SE programme. **alx_africa** is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
-## STAY TUNED!
+## 😉STAY TUNED!
 * More projects are coming soon!!!
 * I am on my way to be the best software engineer that I can possibly be!!!
 
-### Author:
+### Author✍️:
 *NIYIBIZI Elysée | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
 
 ![68747470733a2f2f6173736574732e696d6167696e61626c65667574757265732e636f6d2f6d656469612f696d616765732f414c585f4c6f676f2e6d61782d323030783135302e706e67](https://github.com/elyse502/alx-low_level_programming/assets/125453474/2d08e450-0f63-4979-89cc-1c377d48c32a)
