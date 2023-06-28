@@ -40,6 +40,9 @@ This repository contains programs written for the low-level programming and algo
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
 
+## Access ℹ️
+You can access everything in here by [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and then [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository.
+
 ## ⚠️ WARNING!!!
 **_This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help!
 This repo may contain some errors. If you notice any, please add a pull request._**
