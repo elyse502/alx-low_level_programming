@@ -48,7 +48,7 @@ You can access everything in here by [forking](https://docs.github.com/en/get-st
 This repo may contain some errors. If you notice any, please add a pull request._**
 
 ## Acknowledgements✌️
-All work contained in this project was completed as part of the curriculum for the ALX-SE programme. **alx_africa** is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. [alx_africa](https://www.alxafrica.com/) is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
 ## 😉STAY TUNED!
 * More projects are coming soon!!!
 * I am on my way to be the best software engineer that I can possibly be!!!
