@@ -63,7 +63,7 @@ This repository contains programs written for the low-level programming and algo
 * It aims to learn about variadic functions in **C language**
 
 ## 0x11. C - printf
-* It aims to learn about how to create our own `Printf Function' in **C language**
+* It aims to learn about how to create our own `Printf Function` in **C language**
 
 ## 0x12. C - Singly linked lists
 * It aims to learn about linked lists in **C language**
