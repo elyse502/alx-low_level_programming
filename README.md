@@ -12,30 +12,76 @@ Thank you for visiting my C programming projects learnt during my software engin
 # Table of Contents
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **C language**. I update this repo with my learning progresses with hands-on projects as listed below:
 
-* 0x00. C - Hello, World
-* 0x01. C - Variables, if, else, while
-* 0x02. C - Functions, nested loops
-* 0x03. C - debugging
-* 0x04. C - More functions, more nested loops
-* 0x05. C - Pointers, arrays and strings
-* 0x06. C - More pointers, arrays and strings
-* 0x07. C - Even more pointers, arrays and strings
-* 0x08. C - Recursion
-* 0x09. C - Static libraries
-* 0x0A. C - argc, argv
-* 0x0B. C - malloc, free
-* 0x0C. C - More malloc, free
-* 0x0D. C - Preprocessor
-* 0x0E. C - Structures, typedef
-* 0x0F. C - Function pointers
-* 0x10. C - Variadic functions
-* 0x11. C - printf
-* 0x12. C - Singly linked lists
-* 0x13-more_singly_linked_lists
-* 0x14-bit_manipulation
-* 0x15-file_io
-* 0x17-doubly_linked_lists
-* 0x18-dynamic_libraries
+## 0x00. C - Hello, World
+* It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in **C language**
+
+## 0x01. C - Variables, if, else, while
+* It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**
+
+## 0x02. C - Functions, nested loops
+* It aims to learn about header files, functions, loops and nested loops in **C language**
+## 0x03. C - debugging
+* It aims to learn how to debug in **C language**
+
+## 0x04. C - More functions, more nested loops
+* It aims to learn about nested loops in **C language**
+
+## 0x05. C - Pointers, arrays and strings
+* It aims to learn about pointers and arrays in **C language**
+
+## 0x06. C - More pointers, arrays and strings
+* It aims to learn about pointers and arrays in **C language**
+
+## 0x07. C - Even more pointers, arrays and strings
+* It aims to learn about pointers and arrays in **C language**
+
+## 0x08. C - Recursion
+* It aims to learn about recursion and how to implement it in **C language**
+
+ ## 0x09. C - Static libraries
+* It aims to learn about static libraries in **C language**
+ 
+## 0x0A. C - argc, argv
+* It aims to learn about how to use arguments passed to a program in **C language**
+
+## 0x0B. C - malloc, free
+* It aims to learn about automatic and dynamic allocation in **C language**
+
+## 0x0C. C - More malloc, free
+* It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language**
+
+## 0x0D. C - Preprocessor
+* It aims to learn about how to include guard in the header files and macros in **C language**
+
+## 0x0E. C - Structures, typedef
+* It aims to learn about structures and `typedef` in **C language**
+
+## 0x0F. C - Function pointers
+* It aims to learn about function pointers in **C language**
+
+## 0x10. C - Variadic functions
+* It aims to learn about variadic functions in **C language**
+
+## 0x11. C - printf
+* It aims to learn about how to create our own `Printf Function' in **C language**
+
+## 0x12. C - Singly linked lists
+* It aims to learn about linked lists in **C language**
+
+## 0x13-more_singly_linked_lists
+* It aims to learn about singly linked lists in **C language**
+
+## 0x14-bit_manipulation
+* It aims to learn about how to manipulate bits and use bitwise operators in **C language**
+
+## 0x15-file_io
+* It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language**
+
+## 0x17-doubly_linked_lists
+It aims to learn about doubly linked list in **C language**
+
+## 0x18-dynamic_libraries
+It aims to learn about dynamic and shared libraries in **C language**
 
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
