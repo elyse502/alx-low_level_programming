@@ -10,7 +10,7 @@ Thank you for visiting my C programming projects learnt during my software engin
 # Introduction
 **C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Also **C**, is a computer programming language developed in the early 1970s by American computer scientist `Dennis M. Ritchie` at Bell Laboratories (formerly AT&T Bell Laboratories).
 # Table of Contents
-This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **C language**. I update this repo with my learning progresses with hands-on projects as listed below:
+This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by ALX_Africa. I am learning about data structures, algorithms, and other low-level programming concepts while working in the **[`C`](https://en.wikipedia.org/wiki/C_(programming_language)) language**. I update this repo with my learning progresses with hands-on projects as listed below:
 
 ## 0x00. C - Hello, World
 * It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in **C language**
