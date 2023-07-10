@@ -111,7 +111,7 @@ All work contained in this project was completed as part of the curriculum for t
 * I am on my way to be the best software engineer that I can possibly be!!!
 
 ### Author✍️:
-*__NIYIBIZI Elysée__ | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
+*__NIYIBIZI Elysée__ | [**Linkedin**](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
 
 ![68747470733a2f2f6173736574732e696d6167696e61626c65667574757265732e636f6d2f6d656469612f696d616765732f414c585f4c6f676f2e6d61782d323030783135302e706e67](https://github.com/elyse502/alx-low_level_programming/assets/125453474/2d08e450-0f63-4979-89cc-1c377d48c32a)
 
