@@ -83,11 +83,22 @@ It aims to learn about doubly linked list in **C language**
 ## 0x18-dynamic_libraries
 It aims to learn about dynamic and shared libraries in **C language**
 
+## 0x1A. C - Hash tables
+It aims to learn about hash tables in **C language**
+
 # Compilation Process
 ![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/elyse502/alx-low_level_programming/assets/125453474/32a0fdb1-f66c-43be-bad9-9b06f0330744)
 
 ## Access ℹ️
 You can access everything in here by [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and then [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository.
+
+## More Resources🪴
+* [Pointers and Arrays](https://www.geeksforgeeks.org/pointer-array-array-pointer/) : Code snippets and notes on Pointers and Arrays from Concept Page.
+* [Data Structures](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/) : Code snippets and notes on data structures.
+* [Dynamic Memory Allocation](https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
+
+## Support🎉
+_If you like how I present and document my work do me a favor of giving a **Star** ✨ to my repos |&&| a [**Follow**](https://github.com/elyse502) 👥._
 
 ## ⚠️ WARNING!!!
 **_This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help!
