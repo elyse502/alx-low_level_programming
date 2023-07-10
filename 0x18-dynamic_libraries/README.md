@@ -58,3 +58,53 @@ A function that prints a hash table.
 A function that deletes a hash table.
 * Prototype: `void hash_table_delete(hash_table_t *ht);`
  * where `ht` is the hash table
+
+## 100-sorted_hash_table.c
+In [**PHP**](https://www.php.net/manual/en/intro-whatis.php), hash tables are __ordered__. Wait… WAT? How is this even possible?
+![5ebbea5dea5a575b38243d597604000715982925](https://github.com/elyse502/alx-low_level_programming/assets/125453474/8f8df535-b45d-410c-a3c2-1303a7d5e8db)
+
+**Before you continue**, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work?
+
+For this task, please:
+
+* Read [PHP Internals Book: HashTable](https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html)
+* Use the same hash function
+* Use these data structures:
+```
+/**
+ * struct shash_node_s - Node of a sorted hash table
+ *
+ * @key: The key, string
+ * The key is unique in the HashTable
+ * @value: The value corresponding to a key
+ * @next: A pointer to the next node of the List
+ * @sprev: A pointer to the previous element of the sorted linked list
+ * @snext: A pointer to the next element of the sorted linked list
+ */
+typedef struct shash_node_s
+{
+     char *key;
+     char *value;
+     struct shash_node_s *next;
+     struct shash_node_s *sprev;
+     struct shash_node_s *snext;
+} shash_node_t;
+
+/**
+ * struct shash_table_s - Sorted hash table data structure
+ *
+ * @size: The size of the array
+ * @array: An array of size @size
+ * Each cell of this array is a pointer to the first node of a linked list,
+ * because we want our HashTable to use a Chaining collision handling
+ * @shead: A pointer to the first element of the sorted linked list
+ * @stail: A pointer to the last element of the sorted linked list
+ */
+typedef struct shash_table_s
+{
+     unsigned long int size;
+     shash_node_t **array;
+     shash_node_t *shead;
+     shash_node_t *stail;
+} shash_table_t;
+```
