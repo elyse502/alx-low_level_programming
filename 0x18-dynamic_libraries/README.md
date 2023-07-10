@@ -121,3 +121,5 @@ Rewrite the previous functions using these data structures:
  * Should print the hash tables key/value pairs in reverse order using the sorted linked list
 * `void shash_table_delete(shash_table_t *ht);`
 * You are allowed to have more than 5 functions in your file
+
+![php](https://github.com/elyse502/alx-low_level_programming/assets/125453474/0555daa7-75de-4609-9cbc-0ad7fc49e3ba)
