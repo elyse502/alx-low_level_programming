@@ -6,7 +6,8 @@
 
 **_A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task._**
 ## WELCOME🤝
-Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
+Thank you for visiting my **`C`** programming projects learnt during my software engineering program with ALX.
+*This repo contains all the projects that I have done in the **`alx-Holberton`** curriculum on Higher level programming.*
 # Introduction
 **C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Also **C**, is a computer programming language developed in the early 1970s by American computer scientist `Dennis M. Ritchie` at Bell Laboratories (formerly AT&T Bell Laboratories).
 # Table of Contents
