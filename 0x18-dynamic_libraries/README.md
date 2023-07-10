@@ -55,7 +55,7 @@ I bought a ticket for the Giga Millions and chose these numbers: 9, 8, 10, 24, 7
 * Your shell script should be maximum 3 lines long. You are not allowed to use `;`, `&&`, `||`, `|`, ` (it would be detected by MSS), and have a maximum of two commands
 * Our mole has only the authorization to upload one file on the server. It will be your shell script
 * Our mole will run your shell script this way: `mss@gm_server$ . ./101-make_me_win.sh`
-Our mole will run your shell script from the same directory containing the program **`gm`**, exactly 98 seconds before MSS runs `gm` with my numbers: ./gm 9 8 10 24 75 9
+Our mole will run your shell script from the same directory containing the program **`gm`**, exactly 98 seconds before MSS runs `gm` with my numbers: `./gm 9 8 10 24 75 9`
 * MSS will use the same terminal and session than our mole
 * Before running the `gm` program, MSS always check the content of the directory
 * MSS always exit after running the program `gm`
