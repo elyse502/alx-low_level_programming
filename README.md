@@ -4,7 +4,7 @@
 # 💪Getting Started!
 ![ezgif-1-087495259c](https://github.com/elyse502/alx-low_level_programming/assets/125453474/9c6e85ce-1cfc-4eaa-9b29-67891554193e)
 
-**_A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task._**
+**_A [`low-level language`](https://en.wikipedia.org/wiki/Low-level_programming_language) is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task._**
 ## WELCOME🤝
 Thank you for visiting my **`C`** programming projects learnt during my software engineering program with ALX.
 *This repo contains all the projects that I have done in the **`alx-Holberton`** curriculum on Higher level programming.*
